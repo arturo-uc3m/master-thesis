@@ -1,6 +1,6 @@
 # Personalized emotion forecasting methods using NLP and ML - Thesis repository
 
-Repository containing my Master Thesis for Big Data Analytics master in the Universidad Carlos III de Madrid, titled "Personalized emotion forecasting methods using NLP and ML".
+Repository containing my Master Thesis for Big Data Analytics Master in the Universidad Carlos III de Madrid, titled "Personalized emotion forecasting methods using NLP and ML".
 
 - **Author**: Arturo Silva González.
 - **Supervisor**: Pablo Martínez Olmos.
