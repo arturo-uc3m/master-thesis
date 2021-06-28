@@ -5,6 +5,8 @@ Repository containing my Master Thesis for Big Data Analytics master in the Univ
 - **Author**: Arturo Silva González.
 - **Supervisor**: Pablo Martínez Olmos.
 
+---
+
 ## Repository structure
 - `preprocess-nbs`: the Python code in notebook format (*.ipynb*) used for processing the data. 
 - `predictions-nbs`: the Python code in notebook format (*.ipynb*) used for the predictions.
